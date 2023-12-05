@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "The Bay Eagle",
+    "description": "",
+    "home_page_url": "https://bayeagle.pages.dev",
+    "feed_url": "https://bayeagle.pages.dev/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "LaVie Saad, Harper Dame, Vicken Semerdjian"
+    },
+    "items": [
+        {
+            "id": "https://bayeagle.pages.dev/test-post/",
+            "url": "https://bayeagle.pages.dev/test-post/",
+            "title": "test post",
+            "summary": "just making sure that everything works proper",
+            "content_html": "<p>just making sure that everything works proper</p>",
+            "author": {
+                "name": "LaVie Saad, Harper Dame, Vicken Semerdjian"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-12-04T21:33:48-08:00",
+            "date_modified": "2023-12-04T21:33:48-08:00"
+        }
+    ]
+}

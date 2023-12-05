@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>The Bay Eagle</title>
+    <link href="https://bayeagle.pages.dev/feed.xml" rel="self" />
+    <link href="https://bayeagle.pages.dev" />
+    <updated>2023-12-04T21:33:48-08:00</updated>
+    <author>
+        <name>LaVie Saad, Harper Dame, Vicken Semerdjian</name>
+    </author>
+    <id>https://bayeagle.pages.dev</id>
+
+    <entry>
+        <title>test post</title>
+        <author>
+            <name>LaVie Saad, Harper Dame, Vicken Semerdjian</name>
+        </author>
+        <link href="https://bayeagle.pages.dev/test-post/"/>
+        <id>https://bayeagle.pages.dev/test-post/</id>
+
+        <updated>2023-12-04T21:33:48-08:00</updated>
+            <summary>
+                <![CDATA[
+                    just making sure that everything works proper
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>just making sure that everything works proper</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
