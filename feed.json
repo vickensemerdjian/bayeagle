@@ -5,6 +5,7 @@
     "home_page_url": "https://bayeagle.pages.dev",
     "feed_url": "https://bayeagle.pages.dev/feed.json",
     "user_comment": "",
+    "icon": "https://bayeagle.pages.dev/media/website/logo.png",
     "author": {
         "name": "Bay Eagle Editors"
     },
@@ -79,9 +80,11 @@
                 "name": "Bay Eagle Editors"
             },
             "tags": [
+                   "Original Works",
+                   "December 2023"
             ],
             "date_published": "2023-12-05T12:31:46-08:00",
-            "date_modified": "2023-12-05T12:32:24-08:00"
+            "date_modified": "2023-12-06T12:10:03-08:00"
         }
     ]
 }

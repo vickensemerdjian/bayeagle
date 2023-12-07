@@ -3,7 +3,7 @@
     <title>The Bay Eagle</title>
     <link href="https://bayeagle.pages.dev/feed.xml" rel="self" />
     <link href="https://bayeagle.pages.dev" />
-    <updated>2023-12-05T22:22:44-08:00</updated>
+    <updated>2023-12-06T12:10:03-08:00</updated>
     <author>
         <name>Bay Eagle Editors</name>
     </author>
@@ -153,8 +153,10 @@
         </author>
         <link href="https://bayeagle.pages.dev/the-red-rose-as-bright-as-the-sun/"/>
         <id>https://bayeagle.pages.dev/the-red-rose-as-bright-as-the-sun/</id>
+            <category term="Original Works"/>
+            <category term="December 2023"/>
 
-        <updated>2023-12-05T12:32:24-08:00</updated>
+        <updated>2023-12-06T12:10:03-08:00</updated>
             <summary>
                 <![CDATA[
                     It was red, like a rose in a field of weeds. It was dead center, waiting for me to approach the little feet that were her buds, the long hair that were her leaves, and the tiny arms that were her thorns. She was the&hellip;
